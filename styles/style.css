@@ -75,7 +75,7 @@ body {
 .right_pane {
   width: 70%;
   height: 250px;
-  background-color: #fff;
+  background-color: rgb(25, 233, 70);
   border: 1px solid #e6ecf0;
   border-radius: 7px;
   padding: 16px;
