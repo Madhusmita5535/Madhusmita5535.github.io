@@ -19,7 +19,7 @@ body {
   padding-left: 300px;
   box-sizing: border-box;
   display: flex;
-  background-color: #fff;
+  background-color: rgb(28, 16, 204);
   flex-direction: row;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.25);
 }
@@ -35,7 +35,7 @@ body {
   align-items: center;
   text-decoration: none;
   color: #000000;
-  background-color: #e2e9ed;
+  background-color: #bbfc24;
   border-radius: 25px;
   font-size: 15px;
   font-weight: 700;
@@ -60,9 +60,9 @@ body {
   object-fit: contain;
 }
 .home_body_container {
-  width: 100%;
+  width: 40%;
   padding-top: 40px;
-  display: flex;
+  display: ;
   box-sizing: border-box;
 }
 .left_pane {
@@ -90,4 +90,10 @@ body {
   font-weight: bold;
   line-height: 28px;
   margin-right: 2px;
+}
+.sub_text {
+  font-size: 14px;
+  color: #657786;
+  font-weight: lighter;
+  letter-spacing: 0.1px;
 }
